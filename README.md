@@ -1,3 +1,4 @@
 # turbo-demo
 this is second repository
-author-preet kumar
+new to github
+author-preet kumar 
